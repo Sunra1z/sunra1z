@@ -1,4 +1,4 @@
-![Header](https://github.com/Sunra1z/sunra1z/blob/main/assets/standard%20(1).gif)
+![Header](https://github.com/Sunra1z/sunra1z/blob/main/assets/static.png)
 
 ## I'm a beginner Android Developer, currently studying for a bachelor's degree in IITU university Almaty.
 
