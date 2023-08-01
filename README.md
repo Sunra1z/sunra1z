@@ -1,4 +1,4 @@
-![Header](https://github.com/Sunra1z/sunra1z/blob/main/assets/static.png)
+
 
 ## Hi there!
  - I'm a beginner Android Developer
