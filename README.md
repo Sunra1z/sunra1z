@@ -1,7 +1,7 @@
 
 
 ## Hi there!
- - I'm a beginner Android Developer
+ - I'm a beginner Software Developer
  - I'm currently studying for a bachelor's degree in IITU university Almaty
 
 ### Languages and Tools (probably still learning)
