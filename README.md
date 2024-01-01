@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android SDK<br>🎯 Goals: get a job<br>🎲 Fun fact: I have one brain cell</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android SDK<br>🎯 Goals: get a job lol<br>🎲 Fun fact: I have one brain cell</p>
 
 ###
 
